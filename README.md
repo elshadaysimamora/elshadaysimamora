@@ -1,4 +1,4 @@
-### Hi there! 👋, I'm Elshaday
+# Hi there! I'm Elshaday Simamora :wave:
 
 <!--
 **elshadaysimamora/elshadaysimamora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

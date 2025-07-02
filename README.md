@@ -1,10 +1,21 @@
-# Hi there! I'm Elshaday Simamora :wave:
+# Hi there! I'm Elshaday Simamora 👋
 
-I am a student who is very enthusiastic and passionate about exploring the world of technology :computer: . Currently, I am pursuing a degree in Information Systems at Del Technology Institute :classical_building: :woman_technologist: . I am always looking for opportunities to learn new things and reach the best solutions :dizzy: :raised_hands: . I will always be open to learning new things and continuing to improve my skills :smiley: :smiley: . Let's join and collaborate to create a brighter and more exciting future for information technology :hugs: :hugs: .
+🎓 I’m an enthusiastic Information Systems student at Del Institute of Technology 🏛️, deeply passionate about exploring the ever-evolving world of technology 💻. I love seeking new challenges, learning innovative concepts, and finding smart solutions that make a difference 🚀.
 
-A little about Elshaday:
+✨ I’m always open to growing my skills and embracing new experiences. Whether it’s coding, building projects, or discussing ideas over coffee, I believe every moment is an opportunity to learn and improve 🌱.
 
-- 🌱 I’m currently learning : Web Development
-  
-- :mortar_board: education : Information systems student at Del Institute of Technology
+🤝 Let’s connect, share knowledge, and collaborate to shape a brighter, more exciting future for information technology together!
 
+---
+
+### 🌟 A little more about me:
+
+- 🌱 Currently exploring: building modern web applications, experimenting with Generative AI and RAG systems, learning more about data analysis, and continuously enhancing my programming skills.
+- 🎯 Passionate about: solving problems through tech, data-driven solutions, and building user-friendly systems.
+- 📚 Education: **Information Systems student at Del Institute of Technology**
+- 💬 Always excited to talk about tech, startups, and creative projects!
+
+---
+
+🚀 Let’s build something amazing together!  
+Feel free to reach out — I’d love to chat and explore new ideas!
